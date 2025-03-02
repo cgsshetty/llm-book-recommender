@@ -28,7 +28,7 @@ The application utilizes **Gradio** to create an interactive web interface for u
 
 1. Clone the repository:
 
-   git clone https://github.com/your-github-username/llm-book-recommender.git
+   git clone https://github.com/cgsshetty/llm-book-recommender.git
    cd llm-book-recommender
 
 
