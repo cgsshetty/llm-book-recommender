@@ -54,10 +54,15 @@ The application utilizes **Gradio** to create an interactive web interface for u
 
 .
 ├── data-exploration.ipynb    # Data exploration notebook
+
 ├── Book-recommender.py       # Web interface with Gradio
+
 ├── semantic-sentiment.ipynb   # Sentiment analysis module
+
 ├── text-classification.ipynb  # Text classification module
+
 ├── vector-search.ipynb       # Vector search and book recommendations
+
 └── requirements.txt          # Required libraries
 
 
